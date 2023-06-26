@@ -1,11 +1,10 @@
-# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Learning Artificial Intelligence (AI) 
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
 Contributions most welcome.
 
-![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
-
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.TxYfEdaaHUI23AP2QBPOqAHaEo%26pid%3DApi&f=1&ipt=9143be55a32b9e314b10e4eb35ddab90092a3e2ecb80d0514c8dcb663736734e&ipo=images)
 ## Contents
 
 1. [Courses](#courses)
