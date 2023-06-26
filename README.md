@@ -1,6 +1,6 @@
 # Learning Artificial Intelligence (AI) 
 
-A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+A list of courses, books, video lectures and papers to learn Artificial Intelligence (AI).
 
 Contributions most welcome.
 
